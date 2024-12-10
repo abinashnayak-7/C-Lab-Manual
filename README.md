@@ -1,1 +1,2 @@
-C Lab Manual (IGIT Sarang)
+C Lab Manual (MCA 43rd Batch)
+IGIT Sarang
